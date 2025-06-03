@@ -17,7 +17,7 @@ A cybersecurity specialist, tech innovator, and problem solver. I thrive on brea
 - **Tools**: Git, VS Code, Postman, Custom Exploit Development
 
 ## 🌍 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-sharma)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-sharma-616b17272)  
 
 ## 📌 Current Focus
 - **Mastering advanced containerization and DevOps workflows.**
