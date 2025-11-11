@@ -1,88 +1,74 @@
-# 👋 Hi, I'm Aribam Aditya Sharma
+# 🛩️ Aribam Aditya Sharma
 
-## 🧠 Who Am I
+## 🧭 Profile
 
-🎯 A **Cybersecurity Specialist** driven by curiosity and precision — I break systems not for chaos, but to rebuild them stronger, smarter, and more secure.  
+I am a **UAV Pilot and Drone Systems Researcher** engaged in **applied R&D at NIELIT Imphal’s Drone Laboratory**, operating within the framework of the **DGCA Drone Rules (2021)** and associated regulatory guidelines.  
 
-🔍 My work thrives where **offensive security**, **embedded systems**, and **Python automation** intersect. From dissecting networks to scripting stealthy exploits, I live in the details that others overlook.
-
-💻 Whether it’s probing deep into Linux internals or engineering real-time solutions, I’m always pushing the edge of system capability and security.
-
-🛠️ Currently engaged in **cutting-edge R&D** at **NIELIT Imphal’s Drone Lab**, focusing on:
-- Embedded hardware integration  
-- System calibration & validation  
-- Secure network bridging for real-time UAV communication
+My work revolves around the **engineering, calibration, and operational intelligence** of unmanned aerial vehicles — combining mechanical precision with computational logic.  
+From flight controller configuration to autonomous mission design, I approach each system as a complete ecosystem of hardware, code, and environmental behavior.
 
 ---
 
+## 🔬 Areas of Work
 
-## 🛠️ Core Skillset
-
-### 🔒 Cybersecurity & Offensive Security
-- Red teaming, reconnaissance, exploit testing  
-- Threat analysis, social engineering, OSINT  
-- Incident response and mitigation tactics
-
-### 🐍 Python & Scripting
-- Automation tools for network testing and analysis  
-- Custom exploit development  
-- API integration and scripting for system-level interaction
-
-### 🧬 Embedded Systems & Low-Level Tech
-- Raspberry Pi, Arduino, sensor interfacing  
-- Hardware-software co-integration  
-- Emergency protocol design & manual override control systems  
+- **Drone Assembly and Tuning:** Practical experience in UAV assembly, system calibration, and flight optimization for multi-rotor platforms.  
+- **Mission Configuration:** Design and validation of autonomous missions using *Mission Planner* for both logistics and reconnaissance applications.  
+- **Hardware Integration:** Experience with **Pixhawk**, **Cube Orange**, **Raspberry Pi**, **AI HAT**, **Arduino**, **GPS RTK**, and **LiDAR** modules for precision navigation and situational awareness.  
+- **Computer Vision & Autonomy:** Utilization of **Python**, **OpenCV**, and **YOLO** frameworks to enhance onboard decision-making and object detection capabilities.  
+- **Maintenance and Reliability Engineering:** Involvement in preventive maintenance, ESC synchronization, and fail-safe mechanism development for mission-critical operations.  
 
 ---
-## 🧰 Tech Stack
 
-### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🧠 Current Research & Development
+
+- **Autonomous Drone Delivery Systems:** Developing a controlled aerial delivery network capable of secure, payload-aware routing for logistics in constrained or inaccessible zones.  
+- **Flood Response and Disaster Management UAVs:** Researching coordinated operations between *scout* and *delivery* drones for autonomous disaster response, focused on real-time mapping, payload precision, and data-driven deployment strategies.  
+- **AI-Based Flight Intelligence:** Experimenting with vision-assisted navigation models for adaptive flight control and aerial object recognition.
+
+All ongoing work adheres strictly to **DGCA regulatory standards** on UAV operations, safety procedures, and airspace compliance.
+
+---
+
+## 🧰 Technical Stack
+
+### Programming & Computation  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge)
 
-### 🔐 Offensive Security Tools  
-![Nmap](https://img.shields.io/badge/Nmap-4E4E4E?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-3F3F3F?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge)
-
-### 🖥️ Operating Environments  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🧬 Embedded Systems  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+### Hardware & Flight Systems  
+![Pixhawk](https://img.shields.io/badge/Pixhawk-333333?style=for-the-badge)
+![Cube Orange](https://img.shields.io/badge/Cube%20Orange-FE5000?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![GPIO](https://img.shields.io/badge/GPIO-444444?style=for-the-badge)
-![I²C/SPI](https://img.shields.io/badge/I²C/SPI-666666?style=for-the-badge)
+![AI Hat](https://img.shields.io/badge/AI%20Hat-111111?style=for-the-badge)
+![GPS RTK](https://img.shields.io/badge/GPS%20RTK-005A9C?style=for-the-badge)
+![LiDAR](https://img.shields.io/badge/LiDAR-5F5F5F?style=for-the-badge)
 
-### ⚙️ Utilities & Networking  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-2C2C2C?style=for-the-badge)
+### Tools & Environments  
+![Mission Planner](https://img.shields.io/badge/Mission%20Planner-006400?style=for-the-badge)
+![Ardupilot](https://img.shields.io/badge/Ardupilot-FFCC00?style=for-the-badge)
+![PX4](https://img.shields.io/badge/PX4-005F9E?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-0049E4?style=for-the-badge&logo=tailscale&logoColor=white)
-
----
-## 📌 Current Focus
-
-🔒 Advancing deep into **penetration testing** — exploring zero-days, crafting custom exploits, and building hardened defense strategies.  
-📡 Engineering **real-time embedded systems**, with emphasis on secure networking protocols and system interoperability.  
-🧠 Designing an **AI-driven voice-interactive robot**, leading complete hardware integration, logic control, and behavioral response architecture.  
-🛡️ Upholding **security-first engineering** across all system layers — from low-level firmware to high-level infrastructure.
 
 ---
 
-## 🌐 Let's Connect
+## 📡 Professional Outlook
+
+My goal is to bridge **aeronautical engineering principles** with **computational intelligence**, enabling drones to act with greater autonomy, precision, and reliability in critical field operations.  
+I see UAVs not merely as devices but as **dynamic systems** capable of assisting in logistics, disaster relief, and environmental monitoring when designed with purpose and restraint.
+
+---
+
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aribam%20Aditya%20Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/aditya-sharma-616b17272)
 [![Gmail](https://img.shields.io/badge/Gmail-aribamadityasharma%40gmail.com-red?logo=gmail)](mailto:aribamadityasharma@gmail.com)
 
 ---
 
-> 🧩 Not paranoid — just busy writing the postmortem for your “best practices.”
-
-> 📡 Stay curious. Stay paranoid. Break systems to build better ones.
-
+> “Precision in flight is not achieved by chance — it’s the result of discipline, data, and design.”
